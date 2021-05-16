@@ -7,7 +7,7 @@ Upload a dataset of CSV format and the website will display report of data analy
 
 Install pipenv virtual environtment - `pip install pipenv`
 
-cd to the main directory, activate the shell - `pipenv shell`
+cd to the main directory, activate the shell - `pipenv shell` 
 
 Install required dependencies - `pipenv install`
 
