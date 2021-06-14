@@ -33,8 +33,11 @@ Analysis report :
 
 <br />
 
-Multivariate Graph :
+
 
 ![image](https://user-images.githubusercontent.com/65223389/118350598-3f232100-b575-11eb-9588-e207dbbc8403.png)
 
-and many more...
+![image](https://user-images.githubusercontent.com/65223389/121859720-af0ffd00-cd15-11eb-9ef2-c17f14210c90.png)
+
+
+And many more...
